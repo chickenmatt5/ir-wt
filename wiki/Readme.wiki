@@ -1,0 +1,22 @@
+#summary General info on IR-WT
+#labels Phase-Deploy,Phase-Requirements
+
+=IR-WT script for Wonder Trade=
+IR-WT is a script with several tools to manipulate Pokémon data from the new Pokémon X and Y games. Credit to InfiniteRecursion and LordLandon's work on the [https://code.google.com/p/ir-gts IR-GTS projects], of which a lot of IR-WT is based, and Xfr and Bond697 for their decryption program.
+
+IR-WT has only been tested on Windows, but "should be platform-independent."
+
+=Requirements=
+  * Python 2.7
+(More to come with updated versions.)
+
+=How-to=
+Launch the ir-wt.py file by either double-clicking it or in a command prompt. A menu list will appear, and will want a choice:
+
+*Analyze a Pokémon data file (a)*
+
+This takes a .pkx or .bin file, checks if its encrypted, decrypts it if necessary, then displays stats on the Pokémon stored in the file. It also saves that info to statlog.txt.
+
+*Decrypt an encrypted Pokémon data file*
+
+This takes a .pkx or .bin file and checks if its encrypted. If it is, the script decrypts it and saves it as the original file name with ".dc.pkx" as the file extension.
