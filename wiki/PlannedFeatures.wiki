@@ -1,0 +1,6 @@
+#summary Features planned to be added to IR-WT in future versions
+#labels Phase-Design
+
+=Planned Features=
+  * Add a level calculator to the stat analyzer
+  * Add a packet sniffer/data extractor to automate saving Pokémon data from Wonder Trades
