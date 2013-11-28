@@ -1,0 +1,13 @@
+#summary Links to all downloads
+#labels Phase-Deploy,Featured
+
+=IR-WT=
+==Version 0.01==
+Includes:
+  * IR-WT-v0.01
+  * pikachu.bin and its decrypted version
+  * Statlog with stats from pikachu.bin
+  * "xypkmcrypt.exe", created by Xfr and Bond697
+Version 0.01: [https://dl.dropboxusercontent.com/u/40986476/ir-wt/ir-wt-v0.01.zip .zip download]
+
+Changelog can be found [https://code.google.com/p/ir-wt/wiki/Changelog here].
